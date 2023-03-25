@@ -1,0 +1,5 @@
+In Python you can create varibales
+In Python you can create classes
+In Python you can create functions
+In Python you can perform calculations
+In Python you can prints lines.

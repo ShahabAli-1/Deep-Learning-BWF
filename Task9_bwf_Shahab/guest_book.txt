@@ -1,0 +1,3 @@
+Shahab Visited
+Ali Visited
+& "C:/Users/Eisha Fatima/AppData/Local/Programs/Python/Python310/python.exe" e:/BWF/Task9/new.py Visited
